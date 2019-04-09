@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="new_library" size="10.000000 13.333333" />
+    <ImageTarget name="library" size="10.000000 8.435754" />
+    <ImageTarget name="donghua" size="10.000000 13.333333" />
+    <ImageTarget name="dhu1" size="10.000000 13.333333" />
+  </Tracking>
+</QCARConfig>
